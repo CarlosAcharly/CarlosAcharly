@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💻 Desarrollador Full Stack | Flutter | Backend | Simulación Matemática
+# 💻 Desarrollador Full Stack | Flutter | Backend
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Flutter+Developer;Backend+Developer;AWS+Cloud+Enthusiast;Amante+de+las+Ecuaciones+Diferenciales" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador de software enfocado en crear soluciones reales para negocios, automatización y simulaciones matemáticas.
+Soy desarrollador de software enfocado en crear soluciones reales para negocios, automatización...
 
 Actualmente trabajo en:
 - 🏢 Sistemas de gestión empresarial y sucursales
