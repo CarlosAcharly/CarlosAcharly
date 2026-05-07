@@ -4,7 +4,7 @@
 
 # 💻 Desarrollador Full Stack | Flutter | Backend
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Flutter+Developer;Backend+Developer;AWS+Cloud+Enthusiast;Amante+de+las+Ecuaciones+Diferenciales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Flutter+Developer;Backend+Developer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +29,6 @@ Actualmente trabajo en:
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
