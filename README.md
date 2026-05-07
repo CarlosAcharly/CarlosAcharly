@@ -1,67 +1,63 @@
-# Hi there 👋 I'm Carlos Hernández
+# ¡Hola! 👋 Soy Carlos Alberto Hernández Rivera
 
-## 🚀 About Me
-I'm a software developer passionate about building real-world systems, business solutions, and simulation software.  
-I enjoy working on projects related to:
+## 🚀 Sobre mí
+Soy desarrollador de software apasionado por crear sistemas reales, soluciones empresariales y software de simulación.  
+Me gusta trabajar en proyectos relacionados con:
 
-- 💻 Web and mobile development
-- 📊 Business management systems
-- 🧪 Epidemiological simulations using differential equations
-- ☁️ Cloud infrastructure with AWS
-- 📱 Flutter applications
-- 🗄️ Database design and backend development
-
----
-
-## 🔭 Currently Working On
-- 🏢 SABIX — Business and branch management systems
-- 🐷 Epidemiological simulation software for the pork industry
-- 📦 Inventory and sales control systems with QR/Barcode integration
+- 💻 Desarrollo web y móvil
+- 📊 Sistemas de gestión empresarial
+- ☁️ Infraestructura en la nube con AWS
+- 📱 Aplicaciones con Flutter
+- 🗄️ Diseño de bases de datos y desarrollo backend
 
 ---
 
-## 🌱 Currently Learning
-- Advanced backend architecture
-- Cloud deployment and DevOps
-- Mathematical modeling and simulations
-- AI-assisted software development
+## 🔭 Actualmente trabajando en
+- 🏢 SABIX — Sistemas de gestión y control de sucursales
+- 📦 Sistemas de inventario y ventas con integración QR/Código de barras
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌱 Actualmente aprendiendo
+- Arquitectura backend avanzada
+- Despliegue en la nube y DevOps
+- Modelado matemático y simulaciones
+- Desarrollo de software asistido con IA
 
-### Languages
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
 - JavaScript
-- TypeScript
 - Dart
 - PHP
 - Python
 - SQL
 
-### Frameworks & Tools
+### Frameworks y herramientas
 - Flutter
-- Node.js
-- Express
-- MySQL
 - Firebase
 - AWS EC2
-- Git & GitHub
+- Git y GitHub
+- Postgresql
+- Django
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAcharly&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosAcharly&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAcharly&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAcharly&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@example.com
+## 📫 Contacto
+- 📧 Correo: tu-correo@example.com
 - 🌐 GitHub: https://github.com/CarlosAcharly
 
 ---
 
-## ⚡ Fun Fact
-I like combining mathematics, simulations, and software development to solve real-world problems 🚀
+## ⚡ Dato curioso
+Me gusta combinar matemáticas, simulaciones y desarrollo de software para resolver problemas del mundo real 🚀
