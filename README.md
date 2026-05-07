@@ -54,10 +54,8 @@ Me gusta trabajar en proyectos relacionados con:
 ---
 
 ## 📫 Contacto
-- 📧 Correo: tu-correo@example.com
+- 📧 Correo: ch3179694@gmail.com
 - 🌐 GitHub: https://github.com/CarlosAcharly
 
 ---
 
-## ⚡ Dato curioso
-Me gusta combinar matemáticas, simulaciones y desarrollo de software para resolver problemas del mundo real 🚀
