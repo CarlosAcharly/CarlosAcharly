@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💻 Desarrollador Full Stack | Flutter | Backend
+# 💻 Desarrollador Web, Movil y QA tester
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Flutter+Developer;Backend+Developer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@ Soy desarrollador de software enfocado en crear soluciones reales para negocios,
 Actualmente trabajo en:
 - 🏢 Sistemas de gestión empresarial y sucursales
 - 📦 Sistemas POS e inventario
-- 🐷 Simuladores epidemiológicos basados en modelos SIR
+- 🐷 Aplicaciones Moviles para Gestión de granjas
 - ☁️ Infraestructura cloud en AWS
 - 📱 Aplicaciones móviles con Flutter
 
